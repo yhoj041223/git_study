@@ -6,3 +6,4 @@ hogehoge
 fugafuga
 
 some
+somesome
