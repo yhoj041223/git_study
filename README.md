@@ -5,5 +5,4 @@ hogehoge
 
 fugafuga
 
-some
-some
+someA
